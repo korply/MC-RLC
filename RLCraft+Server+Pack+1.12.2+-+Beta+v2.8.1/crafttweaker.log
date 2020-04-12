@@ -1,0 +1,261 @@
+[PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Shiv.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 2ms
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [recipeevent | crafttweaker]]
+[INITIALIZATION][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Shiv.zs}
+[INITIALIZATION][SERVER][INFO] Script starting!
+[INITIALIZATION][SERVER][INFO] Adding Silver Axe to ore dictionary entry toolAxe
+[INITIALIZATION][SERVER][INFO] Adding Dragon Bone Axe to ore dictionary entry toolAxe
+[INITIALIZATION][SERVER][INFO] Adding brewing recipe for <bountifulbaubles:potionrecall>, Registry size now: 48
+[INITIALIZATION][SERVER][INFO] Adding brewing recipe for <bountifulbaubles:potionwormhole>, Registry size now: 49
+[INITIALIZATION][SERVER][INFO] Script ending!
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 254ms
+[POSTINITIALIZATION][SERVER][INFO] Removing recipes for various outputs
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "bountifulbaubles:spectralsilt_flaregun"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "bountifulbaubles:flare_red"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "bountifulbaubles:phantomprism"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "bountifulbaubles:spectralsilt_magicmirror"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "bountifulbaubles:wormholemirror"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "bountifulbaubles:spectralsilt_luckyhorseshoe"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "bountifulbaubles:ringflywheel"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "bountifulbaubles:ringflywheeladvanced"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "bountifulbaubles:ringiron"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "bountifulbaubles:spectralsilt_sinpendantempty"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "grapplemod:block_grapple_modifier"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "grapplemod:launcheritem"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "grapplemod:repeller"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "grapplemod:baseupgradeitem"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "grapplemod:doubleupgradeitem"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "grapplemod:doubleupgradeitem"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "grapplemod:forcefieldupgradeitem"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "grapplemod:magnetupgradeitem"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "grapplemod:motorupgradeitem"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "grapplemod:ropeupgradeitem"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "grapplemod:staffupgradeitem"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "grapplemod:swingupgradeitem"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "grapplemod:throwupgradeitem"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "grapplemod:limitsupgradeitem"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "grapplemod:longfallboots"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "notreepunching:tools/fire_starter"
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Empty Antique Atlas with name lolarecipe1
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Healing Salve with name lolarecipe2
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Healing Salve with name lolarecipe3
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Healing Salve with name lolarecipe4
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Plaster with name lolarecipe5
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Bandage with name lolarecipe6
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Golden Apple with name lolarecipe7
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for String with name lolarecipe8
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Packed Ice with name lolarecipe9
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Plaster with name lolarecipe10
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Bandage with name lolarecipe11
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Wooden Dagger with name lolarecipe12
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Stone Dagger with name lolarecipe13
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Golden Dagger with name lolarecipe14
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron Dagger with name lolarecipe15
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Diamond Dagger with name lolarecipe16
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Silver Dagger with name lolarecipe16again
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Bronze Dagger with name lolarecipe16againagain
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Stone Spear with name lolarecipe17
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Stone Battle Axe with name lolarecipe18
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Stone Nunchaku with name lolarecipe19
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Stone Hammer with name lolarecipe20
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Paper with name lolarecipe21test
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Emerald Ring with name lolarecipe22
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Emerald Amulet with name lolarecipe23
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Dragon's Eye with name lolarecipe24
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Wither Ring with name lolarecipe25
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Campfire with name lolarecipe26
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Golden Crown with name lolarecipe27
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Chain Wolf Armor with name lolarecipe28
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Heart Crystal Shard with name lolarecipe29
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sin Pendant (Empty) with name lolarecipe30
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spectral Silt with name lolarecipe31
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spectral Silt with name lolarecipe32
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spectral Silt with name lolarecipe31x
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Blazing Fishing Pole with name lolarecipe33
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Ozzy Chestplate Liner with name lolarecipe35
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Ozzy Leggings Liner with name lolarecipe36
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Cobweb with name lolarecipe37
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Greenhouse Glass with name lolarecipe38
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Lit Torch with name lolarecipe39
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Ozzy Liner Material with name lolarecipe40
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Ozzy Chestplate Liner with name lolarecipe41
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Ozzy Leggings Liner with name lolarecipe42
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Waystone with name lolarecipe43
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Diamond with name lolarecipe44
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Diamond Coin with name lolarecipe45
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Bronze Ingot with name lolarecipe44b
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Bronze Coin with name lolarecipe45b
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Potion Ring of Speed with name lolarecipe46
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Potion Ring of Jump Boost with name lolarecipe47
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Potion Ring of Haste with name lolarecipe48
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Potion Ring of Strength with name lolarecipe49
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Potion Ring of Regeneration with name lolarecipe50
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Potion Ring of Resistance with name lolarecipe51
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Chain Skirt with name lolarecipe52
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Golden Skirt with name lolarecipe53
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron Skirt with name lolarecipe54
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Diamond Skirt with name lolarecipe55
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Glowing Ingot with name lolarecipe56
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Glowing Ingot with name lolarecipe57
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Trading Block with name lolarecipe59
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Shield of Honor with name lolarecipe60
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <notreepunching:ceramic_small_vessel>
+[POSTINITIALIZATION][SERVER][INFO] 1 recipes removed for: <notreepunching:ceramic_small_vessel>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <minecraft:gold_nugget>
+[POSTINITIALIZATION][SERVER][INFO] 15 recipes removed for: <minecraft:gold_nugget>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <minecraft:iron_nugget>
+[POSTINITIALIZATION][SERVER][INFO] 15 recipes removed for: <minecraft:iron_nugget>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <defiledlands:umbrium_nugget>
+[POSTINITIALIZATION][SERVER][INFO] 9 recipes removed for: <defiledlands:umbrium_nugget>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <variedcommodities:ingot_steel>
+[POSTINITIALIZATION][SERVER][INFO] 1 recipes removed for: <variedcommodities:ingot_steel>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <iceandfire:silver_ingot>
+[POSTINITIALIZATION][SERVER][INFO] 1 recipes removed for: <iceandfire:silver_ingot>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:diamond_helmet:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:diamond_chestplate:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:diamond_leggings:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:diamond_boots:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:iron_helmet:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:iron_chestplate:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:iron_leggings:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:iron_boots:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:golden_helmet:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:golden_chestplate:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:golden_leggings:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:golden_boots:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:diamond_sword:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:diamond_pickaxe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:diamond_axe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:diamond_hoe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:diamond_shovel:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:iron_sword:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:iron_pickaxe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:iron_axe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:iron_hoe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:iron_shovel:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:golden_sword:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:golden_pickaxe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:golden_axe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:golden_hoe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:golden_shovel:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:diamond_horse_armor:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:iron_horse_armor:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:golden_horse_armor:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:chainmail_helmet:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:chainmail_chestplate:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:chainmail_leggings:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <minecraft:chainmail_boots:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemdiamondhammer:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemdiamondbattleaxe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemdiamonddagger:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemdiamondnunchaku:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemironhammer:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemironbattleaxe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemirondagger:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemironnunchaku:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemgoldhammer:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemgoldbattleaxe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemgolddagger:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemgoldnunchaku:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemsilverhammer:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemsilverbattleaxe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemsilverdagger:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itemsilvernunchaku:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itembronzehammer:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itembronzebattleaxe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itembronzedagger:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mujmajnkraftsbettersurvival:itembronzenunchaku:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:longsword_diamond:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:katana_diamond:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:saber_diamond:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:rapier_diamond:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:greatsword_diamond:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:hammer_diamond:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:warhammer_diamond:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:halberd_diamond:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:throwing_axe_diamond:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:battleaxe_diamond:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:mace_diamond:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:glaive_diamond:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:staff_diamond:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:longsword_iron:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:katana_iron:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:saber_iron:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:rapier_iron:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:greatsword_iron:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:hammer_iron:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:warhammer_iron:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:halberd_iron:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:throwing_axe_iron:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:battleaxe_iron:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:mace_iron:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:glaive_iron:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:staff_iron:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:longsword_gold:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:katana_gold:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:saber_gold:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:rapier_gold:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:greatsword_gold:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:hammer_gold:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:warhammer_gold:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:halberd_gold:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:throwing_axe_gold:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:battleaxe_gold:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:mace_gold:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:glaive_gold:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:staff_gold:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:longsword_silver:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:katana_silver:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:saber_silver:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:rapier_silver:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:greatsword_silver:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:hammer_silver:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:warhammer_silver:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:halberd_silver:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:throwing_axe_silver:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:battleaxe_silver:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:mace_silver:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:glaive_silver:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:staff_silver:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:longsword_bronze:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:katana_bronze:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:saber_bronze:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:rapier_bronze:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:greatsword_bronze:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:hammer_bronze:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:warhammer_bronze:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:halberd_bronze:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:throwing_axe_bronze:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:battleaxe_bronze:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:mace_bronze:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:glaive_bronze:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <spartanweaponry:staff_bronze:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <defiledlands:umbrium_sword:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <defiledlands:umbrium_axe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <defiledlands:umbrium_pickaxe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <defiledlands:umbrium_hoe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <defiledlands:umbrium_shovel:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <defiledlands:umbrium_helmet:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <defiledlands:umbrium_chestplate:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <defiledlands:umbrium_leggings:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <defiledlands:umbrium_boots:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <iceandfire:armor_silver_metal_helmet:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <iceandfire:armor_silver_metal_chestplate:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <iceandfire:armor_silver_metal_leggings:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <iceandfire:armor_silver_metal_boots:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <iceandfire:silver_sword:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <iceandfire:silver_axe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <iceandfire:silver_pickaxe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <iceandfire:silver_hoe:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <iceandfire:silver_shovel:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <wolfarmor:chainmail_wolf_armor:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <wolfarmor:iron_wolf_armor:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <wolfarmor:gold_wolf_armor:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <wolfarmor:diamond_wolf_armor:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <iceandfire:silver_ore:*>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <iceandfire:sapphire_ore:*>

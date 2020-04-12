@@ -1,0 +1,9 @@
+
+Loading options from: G:\MC NEW\RLCraft+Server+Pack+1.12.2+-+Beta+v2.8.1\world\DIM1
+tries_per_chunk_normal = 6
+chance_to_spawn_normal = 10.0
+templateInstancesMinDistance = 256.0
+anyRuinsMinDistance = 64.0
+anySpawnMinDistance = 0
+anySpawnMaxDistance = 2147483647
+Ruins mod loaded successfully for world .\world\DIM1, template files: 187

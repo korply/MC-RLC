@@ -1,0 +1,339 @@
+RLCraft v2.8 (THE STRUCTURE UPDATE & THE MOST QUALITY OF LIFE THAT EVER QUALITIED OF LIFED)
+
+
+
+>>>over 100 new structures hoozah! more details below<<<
+
+
+
+Yes old worlds are compatible, you will get a message about missing entries as some enchantments were removed, this is normal, just click yes to accept changes and your world should load fine.
+
+
+
+FOR LOW END PC'S - Press F8, disable Better Foliage, press P, disable Fancy Block Particles
+
+
+
+DO NOT USE OPTIFINE F4 - This version will crash, please stick with Optifine E3 for 1.12.2 if you're going to use Optifine.
+
+
+
+v2.8.1 HOTFIX:
+
+
+-Fixed concapede dupe spawning bug, concapedes weight lowered and placed back in jungles only.
+-Concapede Heads must now be fed into for them to start growing a new Segment. This will stop wild Concapedes from growing (and contributing to dupe bug).
+-Lycanite Dungeon generation fixed again (they may have generated a little weird before).
+-Gorgomites going out of control duplicating should be mostly fixed, changes have been made to ally spawning requirements, as well as a harsher limit in place now.
+-New pinky model! New pinky subspecies for The End!
+-Pinky is now 1.6 blocks wide and can no longer fit in 1 block wide spaces, health buff from 20 to 30.
+-New Arix and Afrit models! POG!
+-Subspecies can now have different Elements changing their buffs and debuffs as well as immunities.
+-Pets (not mounts or minions) will now grant their owner (if nearby) protection against any effects that they are immune to as well as Fire Protection if they are immune to fire.
+-Balance change, soulbound pets healing slowed slightly to 1 health every 3 seconds (was 1 health every 1 second previously).
+-Aegis now take 50% damage from all vanilla mobs.
+-Wendigos now have the vanilla Undead attribute allowing enchantments to affect them correctly (like Smite).
+-Fixed weight spawn behaviour of Lycanites (Lycanite mobs spawn correctly again in biomes at night, also possibly fixes blood moons from being compltely unbearable to only slightly unbearable =P).
+-Fixed Nether Sky spawner (wraiths, cacodemons, etc, were not spawning as much as they should).
+-Other minor Lycanite fixes.
+-Fixed shulker box being able to be placed in toolbelt causing infinite storage exploit.
+-Friendly Endermite server side mod now, no longer needed for client
+-Scarlet ring dupe fix.
+-Tenembra doors no longer turn into oak doors upon harvesting lol.
+-Disabled Counter Attack enchantment from So Many Enchantments, causes hard crash if paired with Thorns enchant.
+-Fixed wool armor and slime armor AGAIN (oops).
+-Fixed fairy ring causing crash on servers.
+-Fixed dragon eye settings being client side allowing players to "cheat".
+-Polarized stone drains hunger half as quickly as it did before when repelling is active.
+-Added more blocks to fairy climbable list.
+-Increased flight speed slightly of fairy ring.
+-Reworked the placement of some baubles from Trinkets & Baubles (shield of honor now goes on shirt slot for example).
+-Endermen follow you now with the Ender Queen Crown on.
+-Endermen no longer cause static effect when wearing Ender Queen Crown (omega pog for Trinteks & Baubles compatiblity with Enhanced Visuals!).
+-Added new RLCraft specific Forest Dungeon by Ice Belly, spawning only in warm forest biomes, very rare.
+-Cleaned up some configs, added server settings file back for servers to reference.
+
+
+
+v2.8:
+
+
+General Fixes/Changes:
+
+
+-FIXED THE INVINCIBLE MOB BUG WOOOOOOOOOOOOOOO POGPOGPOG (thank you So Many Enchantments rofl).
+-Nerfed the bajeezus out of the battle burrito omegalul (lasts 2 minutes now instead of 10, christ why was this so OP).
+-Dragon max health increased to 800 (was 600, this is the max health a dragon CAN have, based on how high level it is).
+-Dragon max attack damage increased to 30 (was 20, this is the max damage a dragon CAN have based on how high level it is, this is only for melee/bite damage).
+-Increased Troll health to 100 (was 50).
+-Increased base health of Sea Serpents to 50 (was 20, this is base health, based on level of sea serpent, generally they'll have around 100 to 300 health now).
+-Increased Cyclops health to 200 (was 150).
+-Slightly decreased chance for snow village to spawn.
+-Subspecies from Lycanites are now more powerful! Uncommon and rare mobs with special tags will now do more damage, be faster, attack faster, have more health, etc, best to avoid early game.
+-Summoning Pedestal from Lycanites now only lasts 1 minute for 1 redstone (down from 10 minutes) and requires 8 building and 8 magic (was 4 for both).
+-Slightly lowered chance for tremors to spawn from explosions.
+-Disabled Ancient Sword Mastery enchantment as was causing server wide crash.
+-Disabled Rusted curse enchantment for causing rare crash.
+-Disabled Rune: Revival for causing dupe bug.
+-Disable Subject Mathematics and Subject History for being hella broken.
+-Disabled Quarrying enchantment (did nothing).
+-Fixed broken furnace recipe from Ice and Fire that would smelt air into silver ingots (wtf ice n fire rofl) causing Smelting and Smelter enchantments to spawn silver from Ice and other blocks.
+-Disabled Magical Rune Blessing for crashes and making cows blow you up? what?
+-Disabled Vitality enchantment from Better Survival (not to be confused with Strengthened Vitality), this is supposed to speed up natural regen, but natural regen is disabled, so this enchant does nothing.
+-Fixed durability of silver spartan weapons to 460 (was 48).
+-Fixed dupe bug with smelting daggers.
+-Fixed some broken loot in doomlike dungeons loot table (again).
+-Added recipes for bronze coins to bronze ingot and vice versa, as smelting a bronze dagger now gives 4 bronze coins (nuggets).
+-Lowered spawn chance of tumbleweed slightly, rebalanced tumbleweed drops (diamonds should be more rare now).
+-Slightly raised chance of fishing up neptune's treasure.
+-Added neptunium armor and golum armor to armorunder list so they can be used with warming/cooling liners.
+-Added quivers to reforging station, can now be reforged with leather.
+-Added all missing baubles to reforging station (hopefully).
+-Slight nerf, Iron Arrows now do x2 damage (from x3) and Diamond Arrows now do 3x damage (from 4x).
+-Slight buff, throwable weapons like knives, axes, boomerangs, and javelins now do more damage.
+-Fixed Reskillable farming skills so all 3 skills can be unlocked now.
+-Removed snow layer recipe becuz reasons.
+-Iron Skin skill only goes up to level 5 for a max of 25% damage resist now instead of 10 levels for 50% damage resist. Unfortunately players already above 5 will not get set back to 5.
+-Dragon skeletons are now more rare to find.
+-Disabled Fire Starter item from No Tree Punching, to fix exploit with getting infinite perma torches via the Fire Pit item.
+-Endermen are now friendly towards Endermites (yeah you saw this coming come on lol).
+-Added Slimes to Carry On blacklist as picking them up could dupe them.
+-Update to Carry On fixes Anti-Cheat system: The player can't carry more than one block or entity at once.
+-Fixed Tide Arrows to be craftable with all types of Sea Serpent Scales.
+-Uncommon variants (verdant, Azure, etc) and Rare (Lunar Grue, etc) lycanite mobs have had a slight buff in speed and damage now (before only difference was more health).
+-Slightly increased scale variance from Lycanite Mobs (just means mobs can be different sizes now).
+-Disabled version checker for Dynamic Surroundings and Orelib (yay less chat spam).
+-Battletowers now have a 60% chance to spawn normal and a 40% chance to spawn underground (was 50/50).
+-Slightly rebalanced loot in battletowers to compensate for double gen chances (loot tables sometimes spawn twice due to a bug, lowered spawn chances of diamonds and emeralds mainly, was never supposed to be generating that much lol)
+-Fixed qualities not appearing on crossbows.
+-Fixed super exploit with being able to pickup mob spawners (CarryOn) and then put them in your Toolbelt like an item lawl.
+-Added new quality for bows "Legendary" with +15% to projectile damage.
+-Fixed a number of generations like Ocean Castle (never spawned, not the floating castle, different one) Underwater Base (broken generation, the square flat sandstone structures in water), Floater (floating ocean structure with end portal frames, chests were empty, loot tables fixed now) and many more.
+-Fixed EVEN MORE structures that were NEVER generating from Ruins due to outdated templates/conflict with No Tree Punching. Manually went through and fixed all 187 Ruins structures, a good 100 of them which probably never spawned in anyone's world before. There should be TONS more structures generating now. Re-balanced the weights of these as well and fixed a lot of broken generation stuff with them. (note this is Ruins, not Recurrent Complex, which spawns the sunken island and sometimes floating towns...which are not fixed and I honestly kinda like them, so =P).
+-Fixed a bunch of Recurrent Complex structures that were not generating due to outdated presets (this fixes biome preset spam in logs). Rebalanced some weights, you'll see more varied buildings in villages now, also the big village library loot will actually spawn with custom enchantments now.
+-Added 5 new RLCraft specific made structures by IceBelly! RLCraft 4 Towers Dungeon, RLCraft Underground Farm, RLCraft Underground Town, and RLCraft Small Town! These structures were added to Recurrent Complex and will generate randomly in your world! Thanks IceBelly for making these awesome structures!
+
+
+
+ISeeDragons ADDED!! (massive thank you to XCUBE for coding this just for RLCraft!)
+
+
+-Render distance fix for dragons, sea serpents, cyclops, and battletower guardian, can now be seen 128 blocks away!
+-Tide Guardian armor can be repaired again!
+-Fixes for other unrepairable items such as golem armor (now uses obsidiant to repair), neptunium armor/tools, and spartanfire fire/ice weapons!
+-You can no longer just crouch to get out of a dragon's jaws/cyclops hand when it picks you up, so now you're pretty much f'd if that happens <3.
+-Fixed ore dictionaries, dragonbone axe is actually an axe now (lul) and tide arrows can be crafted with all sea serpent scales.
+-Dragons wake up when attacked while sleeping! (no more cheese for you SystemCollapse! well okay, literally everyone lol).
+-Lycanite mobs now recognize dragons as "bosses" and will not attack them, specifically while they're sleeping and prematurely waking them up =P (don't worry, your summons/pets still attack them).
+-Lightning damage no longer deletes items, woot!
+-Fixed dupe bug with myrmex eggs.
+-Fixed an issue with Tough As Nails calling double attack events, breaking some weapons and causing them to do more damage than they were supposed to.
+-Dragon breaking blocks lag FIXED!! When a dragon breaks certain common blocks (stone, dirt, etc) the block has a 95% or so chance of just getting outright destroyed, not dropping an item or causing block break particles. This is ONLY for common blocks, everything else they destroy will drop like normal. MASSIVE performance improvement! Huge thanks again xcube!
+
+
+
+ItemPhysics update!
+
+
+-fix rare crash on startup.
+-fix tooltip so its now center screen for all resolutions and GUI scales.
+
+
+
+SpartanWeaponry update!
+
+
+-Arrow desync fixed, no longer looking like they just drop or hit you anymore.
+-Boomerangs spin around smoother when in flight.
+-Throwing Axes will now spin while in flight.
+-Reworked the crosshairs when loaded with Better Combat Rebirth installed, because it will always draw over the new crosshairs, making a huge mess with throwing weapons.
+-Power enchantment now works on crossbows.
+-Fixed dupe bug with crossbows with infinity.
+-Damage Bonus OP; pls nerf. Damage Bonuses are now added to total damage by multiplying initial weapon damage now, rather than total damage post-enchantments.
+E.g. Diamond Rapier -> Sharpness V : Before patch -> (4 + 3 (Ench. Bonus)) * 3 = 21 damage : After patch -> 4 + 3 + (4 * 2) (DMG Bonus) = 15 damage
+This should prevent weapons getting lucidrously powerful with extremely strong enchantments (aka, no more one-shotting dragons with sabers/rapiers Mr SystemCollapse).
+
+
+
+Lycanite's Mobs update!
+
+
+-Back-ported the AI overhaul from 1.14.4 versions of Lycanites Mobs:
+-Added Creature Groups (different to Creature Types) which affect how mobs interact with other entities such as the predator group, monsters group, inferno group, etc.
+-Added Creature Diets which can be viewed in the Beastiary, these affect which items can be fed to pets to heal them as well as which items can be fed to farmable creatures to breed them.
+-The AI overhaul should drastically improve summon/pet AI. (no longer attacking armor stands, properly adhering to commands)
+-Fixed a bug with Defensive and Assist pet stances where pets would not defend or assist their owner at all.
+-Some creature behaviour is now slightly different, for example Quillbeasts are now neutral, this is all tied into the new creature groups system.
+-Fixed bestiary not syncing correctly at times causing players bestiary to appear empty.
+-Fixed some foods not applying their buff (yes chupacabra meat gives leech again =D).
+-(because of the above change, foods do NOT instant heal any longer! They only give their potion effect now, similiar to RLCraft v2.5 behaviour)
+-Fixed being able to spam X ability on mounts, flying feradons, etc.
+-Fixed a bug where fused elementals summoned from Summoning Pedestals were not added to each pedestal's summoning limit.
+-Fixed a bug where Equipment Parts like the Iron Paxel weren't harvesting blocks correctly.
+-Fixed a crash caused by invisibility when using various other mods (this includes the Grue Claw crash).
+-Fixed some text positioning in the Beastiary Creature tab.
+-Added missing language entry for Infected Conba.
+-Fixed a server exploit that allowed flying.
+-Fixed a crash with other mods when the player is invisible (Grue Claw Lv 3).
+-Fixed a bug where redstone block updates could spawn Xaphans rapidly.
+-Fixed Wisps and Sylphs not rendering their hair and wings when Optifine was installed.
+-Fixed a bug where Subspecies sizes weren't being loaded (a new feature from the 1.14.4 back port).
+-Water only mounts will now move at only 10% speed when on land.
+-Underground mobs will only spawn at y 50 and below (was y 60).
+-Cinders spawn rate in the nether only has been toned down (now separate spawner for them that is dimension specific).
+-Entities with a width or height larger than 4 are now considered heavy for picking up (no more picking up dragons/battletower guardians with the Roc omegalawl).
+-Pets and minions set to Assist will now attack enemies hit by any attack from the player, previously they only responded to melee attacks.
+-All behaviours like aggressive, assist, defensive, passive, should now work correctly. Pets/mounts should correctly follow player when set to follow mode.
+-Pets/mounts/minions set to Aggressive no longer attack passive mobs (yay don't have to worry about walking into a village with your your summons out lol).
+-Food fixes, most foods now give the correct buff for the correct amount of time (swift swimming still does not work for now).
+-Dungeon bosses now have boss bars! Dungeon boss rooms size increased to fix certain bosses getting stuck like Tyrant Dragon.
+-Lycanite mini bosses no longer lurable or tamable with treats.
+-Pet/Mount respawn timer set to 3 minutes (was 5) and timer is now shown next to respawn bar.
+-Rahovert and Asmodeus had a slight height scale miscalculation, causing them to shoot over you instead of at you at times. Both bosses are now deadly accurate >:)
+
+
+
+Better Survival update!
+
+
+-Tons of bug fixes!
+-Nunchucks re-enabled! (just for PewDiePie) No longer crashing.
+-Spears re-enabled! No longer crashing.
+-Tunneling enchant re-enabled! No longer crashes server.
+-Multishot enchant re-enabled! No longer duping arrows.
+-Hammer slam attack can now crush more blocks (wool, glass and infested blocks).
+-Explosions caused by blasting enchantment no longer breaks blocks.
+-Blasting and multishot are now mutually exclusive.
+-Changed how penetration works (now (2+lvl)*10% of damage ignores armor).
+-All enchantments now have a description (Enchantment Descriptions mod)
+-Player's hand no longer swings if he is using nunchakus.
+-Crossbow now appeares fully loaded when it should.
+-Status effects added by this mod now work correctly.
+-Status effects added by this mod now have icons.
+-Nunchakus now spin in multiplayer.
+-Shields now apply attribute modifiers correctly.
+-Range enchant fixed, arrows will no longer gain infinite velocity and cause crash (lul).
+-Dragonbone and chitin varients of weapons added!
+-Silver weapons from Better Survival now correctly do undead bonus damage!
+
+
+
+No Tree Punching update!
+
+
+-Fixes JEI recipes not showing for all knives now including flint knife.
+-Fixes a crash involving MultiMine and Sponge.
+-Fixes rocks causing entity collision and interfering with mob pathfinding (dragons should no longer spin me right round baby rought round).
+-Fixes mattocks mining slowly on generic wood items.
+-Fixes double tall grass and double ferns not dropping plant fiber.
+
+
+
+Dynamic Surroundings update!
+
+
+-Waterfall splash sound should no longer linger after the waterfall effect is gone. Yay!
+
+
+
+Dyanamic Trees update!
+
+
+-Fix crash when mining Rooty Block with ProportionalDestructionParticles(thanks Tommsy64)
+-Fixed a bug with subterranean generation(thanks satyrnidae)
+-Fixed ArithmeticException startup crash(thanks ruudschouten)
+-Fixed StackOverflow crash in BlockBranch(thanks fonnymunkey)
+
+
+
+XP Tome update!
+
+
+-Fixed XP dupe bug by "repairing" xp tomes on an anvil.
+
+
+
+Trinkets & Baubles update!
+
+
+-Added silver, sapphire, hephastite, umbrium, and scarlite ores to dragon eye search.
+-Dragon's eye growl effect won't play if sneaking.
+-Dragon's eye now makes you immune to hyperthermia from Tough As Nails! (aka too hot)
+-Dragon's eye now has a block detection range of 5 height and 10 radius (down from 6 height and 12 radius)
+-Fairy ring now lets you fly! With the downside of lowering your hearts while wearing the ring.
+-Dwarf ring now lowers your hearts while wearing it.
+-Dwarf ring fortune effect will not stack with other fortune effects anymore.
+-Wearing the Poison Stone now lets you deal 2x damage to enemies that are poisoned.
+-Ring of Enchanted Eyes prevents blindness.
+-Stone Of The Sea now prevents thirst effect when drinking dirty water from Tough As Nails!
+-Slightly lowered swim speed while wearing Stone Of The Sea.
+-Ender Queen Crown now makes you immune to Hypothermia from Tough As Nails! (aka too cold)
+-Wearing the Ender Queen Crown will not let you get drops or XP from killing endermen anymore.
+-Wearing the Ender Queen Crown makes water damage you!
+-Wearing the Ender Queen Crown now allows for a 1 in 50 chance of spawning an endermen when you take damage, that will attack and kill whatever attacked you.
+-Wither Ring now allows you to leech health off enemies that have wither applied to them.
+-Polarized Stone now drains your hunger when repelling projectiles.
+-Lowered speed that Stone of Greater Inertia grants slightly.
+-You will take 25% of fall damage with the Stone of Greater Inertia now (instead of 0%) and 50% knockback resist.
+-Stone of Inertia Null grants immunity to fall damage and knockback.
+-Re-enabled Stone of Inertia Null and Stone of Greater Inertia, now only drop from ultra infernal mobs.
+-New bauble! Shield Of Honor! Grants resistance effect, 1 in 50 chance to ignore headshots (first aid compat), 50% resistance to explosions, and every 10th hit you take (only counted if 1 full heart of damage) will be ignored!
+
+
+
+Bountful Baubles update!
+
+
+-Fixed recall potions not respecting non-bed spawn points (yes this means they should work with Wastones now, pog).
+-Made ender dragon scales drop over a greater area so that they're less likely to fall in the portal.
+
+
+
+Varied Commodities update!
+
+
+-Recipe book fixed! POG!
+-You can dye couches and other wool items by right clicking it with a dye in your hand (also fixed a crash with this)
+-Barrels/Crates fixed! Now shows item tooltips! Also works with inventory tweaks! OMEGAPOG!
+-Fixed dupe bug with weapon racks and sword pedestal.
+
+
+
+Added Snow! Real Magic!
+
+
+-Snow layer will fall like sand. If it touches a water source, it will become ice.
+-Snow layers will accumulate during snow storms.
+-Snow layers will have thinner bounding box.
+
+
+
+ANOTHER HUGE THANK YOU to everyone who helped so much with v2.8:
+
+ 
+
+Lycanite (for being an absolute BOSS developer fixing up all the issues and quirks just for this release!!)
+
+fonnymunkey (for tons of testing!)
+
+Icebelly (for all the new awesome structures!)
+
+joeyjoejoeshabidoo (more testing!)
+
+Tehmadtitan (all the testing!!)
+
+Block_Vader (for coming back to develop Better Survival and fix it up due to the popularity of RLCraft!  Huge thanks!)
+
+AlcatraazEscapee (for lots of speedy fixes to No Tree Punching!)
+
+Ferreusveritas (for taking the time to fix the incredibly difficult crash with Dynamic Trees!)
+
+XCube & Charles445 (for both of their AMAZING work on the ISeeDragons mod, tons of coding help, patching up every last little bug and issue!)
+
+XzeroAir (for fixing up and adding RLCraft specific compatibility and options into Trinkets & Baubles! POG!)
+
+Pyrofab (for a great rework of the potion rings and fixing some critical issues!)
+
+
+
+And anyone else I may have messed, all the devs updating their mods, all the testers on discord who helped make this release as solid as it is and spent endless hours testing out 2.8.  Huge huge props.
