@@ -1,175 +1,54 @@
 {
-  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+  "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
-      "has_sand": "2563-04-12 20:52:36 +0700"
+      "entered_water": "2563-04-13 22:36:26 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_concrete_powder": {
+  "minecraft:husbandry/root": {
     "criteria": {
-      "has_sand": "2563-04-12 20:52:36 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_concrete_powder": {
-    "criteria": {
-      "has_sand": "2563-04-12 20:52:36 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_concrete_powder": {
-    "criteria": {
-      "has_sand": "2563-04-12 20:52:36 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
-    "criteria": {
-      "has_sand": "2563-04-12 20:52:36 +0700"
+      "consumed_item": "2563-04-13 22:37:13 +0700"
     },
     "done": true
   },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
-      "entered_water": "2563-04-12 21:12:22 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_concrete_powder": {
-    "criteria": {
-      "has_sand": "2563-04-12 20:52:36 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
-    "criteria": {
-      "has_sand": "2563-04-12 20:52:36 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_concrete_powder": {
-    "criteria": {
-      "has_sand": "2563-04-12 20:52:36 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
-    "criteria": {
-      "has_sand": "2563-04-12 20:52:36 +0700"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "beaches": "2563-04-12 21:12:45 +0700",
-      "desert_hills": "2563-04-12 20:06:27 +0700",
-      "taiga": "2563-04-12 21:14:07 +0700",
-      "ocean": "2563-04-12 21:15:15 +0700",
-      "river": "2563-04-12 20:06:26 +0700",
-      "desert": "2563-04-12 20:05:49 +0700"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2563-04-12 20:52:36 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
-    "criteria": {
-      "has_sand": "2563-04-12 20:52:36 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stonebrick": "2563-04-12 21:17:24 +0700"
+      "entered_water": "2563-04-13 22:36:26 +0700"
     },
     "done": true
   },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "entered_water": "2563-04-12 21:12:22 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_concrete_powder": {
-    "criteria": {
-      "has_sand": "2563-04-12 20:52:36 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_concrete_powder": {
-    "criteria": {
-      "has_sand": "2563-04-12 20:52:36 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "entered_water": "2563-04-12 21:12:22 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
-    "criteria": {
-      "has_sand": "2563-04-12 20:52:36 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
-    "criteria": {
-      "has_sand": "2563-04-12 20:52:36 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_concrete_powder": {
-    "criteria": {
-      "has_sand": "2563-04-12 20:52:36 +0700"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2563-04-12 20:58:51 +0700"
+      "entered_water": "2563-04-13 22:36:26 +0700"
     },
     "done": true
   },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
-      "entered_water": "2563-04-12 21:12:22 +0700"
+      "entered_water": "2563-04-13 22:36:26 +0700"
     },
     "done": true
   },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
-      "entered_water": "2563-04-12 21:12:22 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
-    "criteria": {
-      "has_stonebrick": "2563-04-12 21:17:24 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
-    "criteria": {
-      "has_sand": "2563-04-12 20:52:36 +0700"
+      "entered_water": "2563-04-13 22:36:26 +0700"
     },
     "done": true
   },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
-      "entered_water": "2563-04-12 21:12:22 +0700"
+      "entered_water": "2563-04-13 22:36:26 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "has_stonebrick": "2563-04-12 21:17:24 +0700"
+      "swampland": "2563-04-13 22:40:10 +0700",
+      "plains": "2563-04-13 22:36:11 +0700",
+      "extreme_hills": "2563-04-13 22:38:13 +0700",
+      "roofed_forest": "2563-04-13 22:37:49 +0700",
+      "river": "2563-04-13 22:37:58 +0700"
     },
-    "done": true
+    "done": false
   }
 }

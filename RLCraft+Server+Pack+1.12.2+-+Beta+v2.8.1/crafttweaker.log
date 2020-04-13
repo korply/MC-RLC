@@ -13,7 +13,7 @@
 [INITIALIZATION][SERVER][INFO] Adding brewing recipe for <bountifulbaubles:potionrecall>, Registry size now: 48
 [INITIALIZATION][SERVER][INFO] Adding brewing recipe for <bountifulbaubles:potionwormhole>, Registry size now: 49
 [INITIALIZATION][SERVER][INFO] Script ending!
-[INITIALIZATION][SERVER][INFO] Completed script loading in: 254ms
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 249ms
 [POSTINITIALIZATION][SERVER][INFO] Removing recipes for various outputs
 [POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "bountifulbaubles:spectralsilt_flaregun"
 [POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "bountifulbaubles:flare_red"

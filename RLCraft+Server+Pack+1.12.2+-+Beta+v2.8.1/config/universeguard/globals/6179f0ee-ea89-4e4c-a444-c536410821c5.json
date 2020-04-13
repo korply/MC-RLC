@@ -1,0 +1,291 @@
+{
+  "VERSION": 2.22,
+  "ID": "6179f0ee-ea89-4e4c-a444-c536410821c5",
+  "TYPE": "GLOBAL",
+  "NAME": "DIM-1",
+  "GAMEMODE": "minecraft:not_set",
+  "FLAGS": [
+    {
+      "name": "place",
+      "value": true
+    },
+    {
+      "name": "destroy",
+      "value": true
+    },
+    {
+      "name": "pvp",
+      "value": true
+    },
+    {
+      "name": "expdrop",
+      "value": true
+    },
+    {
+      "name": "itemdrop",
+      "value": true
+    },
+    {
+      "name": "itempickup",
+      "value": true
+    },
+    {
+      "name": "enderpearl",
+      "value": true
+    },
+    {
+      "name": "sleep",
+      "value": true
+    },
+    {
+      "name": "lighter",
+      "value": true
+    },
+    {
+      "name": "chests",
+      "value": false
+    },
+    {
+      "name": "trappedchests",
+      "value": false
+    },
+    {
+      "name": "waterflow",
+      "value": true
+    },
+    {
+      "name": "lavaflow",
+      "value": true
+    },
+    {
+      "name": "otherliquidsflow",
+      "value": true
+    },
+    {
+      "name": "leafdecay",
+      "value": true
+    },
+    {
+      "name": "firespread",
+      "value": true
+    },
+    {
+      "name": "potionsplash",
+      "value": true
+    },
+    {
+      "name": "falldamage",
+      "value": true
+    },
+    {
+      "name": "cantp",
+      "value": true
+    },
+    {
+      "name": "canspawn",
+      "value": true
+    },
+    {
+      "name": "hunger",
+      "value": true
+    },
+    {
+      "name": "enderchests",
+      "value": true
+    },
+    {
+      "name": "walldamage",
+      "value": true
+    },
+    {
+      "name": "drown",
+      "value": true
+    },
+    {
+      "name": "invincible",
+      "value": false
+    },
+    {
+      "name": "cactusdamage",
+      "value": true
+    },
+    {
+      "name": "firedamage",
+      "value": true
+    },
+    {
+      "name": "endermangrief",
+      "value": true
+    },
+    {
+      "name": "enderdragonblockdamage",
+      "value": true
+    },
+    {
+      "name": "hidelocation",
+      "value": false
+    },
+    {
+      "name": "hideflags",
+      "value": false
+    },
+    {
+      "name": "hidemembers",
+      "value": false
+    },
+    {
+      "name": "hideregion",
+      "value": false
+    },
+    {
+      "name": "icemelt",
+      "value": true
+    },
+    {
+      "name": "exit",
+      "value": true
+    },
+    {
+      "name": "enter",
+      "value": true
+    },
+    {
+      "name": "vinesgrowth",
+      "value": true
+    },
+    {
+      "name": "sendchat",
+      "value": true
+    },
+    {
+      "name": "trample",
+      "value": true
+    },
+    {
+      "name": "shulkerboxes",
+      "value": true
+    },
+    {
+      "name": "pistons",
+      "value": true
+    },
+    {
+      "name": "frostwalker",
+      "value": true
+    },
+    {
+      "name": "fishingpole",
+      "value": true
+    }
+  ],
+  "INTERACTS": [
+    {
+      "BLOCK": "craftingtable",
+      "USE": true
+    },
+    {
+      "BLOCK": "enchantingtable",
+      "USE": true
+    },
+    {
+      "BLOCK": "itemframe",
+      "USE": true
+    },
+    {
+      "BLOCK": "armorstand",
+      "USE": true
+    },
+    {
+      "BLOCK": "anvil",
+      "USE": true
+    },
+    {
+      "BLOCK": "hopper",
+      "USE": true
+    },
+    {
+      "BLOCK": "lever",
+      "USE": true
+    },
+    {
+      "BLOCK": "button",
+      "USE": true
+    },
+    {
+      "BLOCK": "furnace",
+      "USE": true
+    },
+    {
+      "BLOCK": "door",
+      "USE": true
+    },
+    {
+      "BLOCK": "fencegate",
+      "USE": true
+    },
+    {
+      "BLOCK": "trapdoor",
+      "USE": true
+    },
+    {
+      "BLOCK": "pressureplate",
+      "USE": true
+    },
+    {
+      "BLOCK": "sign",
+      "USE": true
+    }
+  ],
+  "VEHICLES": [
+    {
+      "VEHICLE": "minecart",
+      "PLACE": true,
+      "DESTROY": true
+    },
+    {
+      "VEHICLE": "boat",
+      "PLACE": true,
+      "DESTROY": true
+    }
+  ],
+  "EXPLOSIONS": [
+    {
+      "EXPLOSION": "tnt",
+      "DAMAGE": true,
+      "DESTROY": true
+    },
+    {
+      "EXPLOSION": "creeper",
+      "DAMAGE": true,
+      "DESTROY": true
+    },
+    {
+      "EXPLOSION": "endercrystal",
+      "DAMAGE": true,
+      "DESTROY": true
+    },
+    {
+      "EXPLOSION": "fireball",
+      "DAMAGE": true,
+      "DESTROY": true
+    },
+    {
+      "EXPLOSION": "enderdragon",
+      "DAMAGE": true,
+      "DESTROY": true
+    },
+    {
+      "EXPLOSION": "otherexplosions",
+      "DAMAGE": true,
+      "DESTROY": true
+    }
+  ],
+  "MOBS": [],
+  "COMMANDS": [],
+  "EXCLUDED_BLOCKS": {
+    "PLACE": [],
+    "DESTROY": []
+  },
+  "DISALLOWED_ITEMS": [],
+  "TEMPLATE": false
+}
